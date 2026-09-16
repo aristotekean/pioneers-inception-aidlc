@@ -85,3 +85,6 @@ aidlc/diagnostics/
 .claude/settings.local.json
 # END AI-DLC:gitignore
 aidlc.settings.local.json
+
+# gentle-ai skill registry cache (machine-local)
+.atl/
